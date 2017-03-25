@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<style>
+  .Start { font-size: 20px;
+           color : brown; }
+  .border { border-color: brown;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 5%; }
+  .back-pink {background-color: pink;}
+</style>
+<html>
+<head>
+<title>
+</title>
+</head>
+
+<body>
+<h1 class="border">Goals to achieve...... </h1>
+
+<div class="back-pink">
+<p class="Start">Hello Friends Myself <b><u style="color:black;">Shivam Gupta.</u></b></br>These are some skills sets and Goals I have to learn and achieve</p>
+<ul style="color:Blue; font-size:18px;">
+    <li> 1. HTML</li>
+    <li> 2. CSS</li>
+    <li> 3. Flask</li>
+    <li> 4. Django</li>
+    <li> 5. Web app</li>
+    <li> 6. Cloud Computing</li>
+    <li> 7. Doing atleast a single freelancing job</li>
+    <li> 8. GSoC </li>
+    <li> 9. GATE Rank below 100 </li>
+    <li> 10.Admission in IIT DELHI </li>
+</ul>
+
+</div>
+</br>
+<p style="font-size:18px;"> <b>--------------This commitment is dated 24 March 2017-------------
+
+
+</body>
+
+</html>
